@@ -359,7 +359,8 @@ def eval_queries(queries, score_fn, seed=42):
         rel = np.array([1.0 if cands[i] in gset else 0.0 for i in order])
         ng = len(gset)
         for k in (5, 10, 20):
-            dcg = float(np.sum(rel[:k] / np.log2(np.arange(2, k + 2))))
+            kk = min(k, len(rel))
+            dcg = float(np.sum(rel[:kk] / np.log2(np.arange(2, kk + 2))))
             ideal = float(np.sum(1.0 / np.log2(np.arange(2, min(ng, k) + 2))))
             M[f"NDCG@{k}"].append(dcg / ideal)
         for k in (10, 20):
