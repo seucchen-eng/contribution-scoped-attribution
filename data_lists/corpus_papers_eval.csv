@@ -1,0 +1,251 @@
+doi,title
+10.1371/journal.pcbi.1013849,Gaussian process emulation for exploring complex infectious disease models
+10.1371/journal.pcbi.1013830,Ten simple rules for running a virtual program to introduce computational biology at the high school level
+10.1371/journal.pcbi.1013807,Ten simple rules on how to set up an Innovation Boot Camp for exploitation of research results
+10.1371/journal.pcbi.1013848,Coancestry superposed on admixed populations yields measures of relatedness at individual-level resolution
+10.1371/journal.pcbi.1013833,A novel generative framework for designing pathogen-targeted antimicrobial peptides with programmable physicochemical properties
+10.1371/journal.pcbi.1013818,A data-driven biology-based network model reproduces C. elegans premotor neural dynamics
+10.1371/journal.pcbi.1013789,When predict can also explain: Few-shot prediction to select better neural latents
+10.1371/journal.pcbi.1013854,Inverse modeling unveils governing law of mechano-chemical dynamics of epithelial migration
+10.1371/journal.pcbi.1013828,Cell-DINO: Self-supervised image-based embeddings for cell fluorescent microscopy
+10.1371/journal.pcbi.1013827,Using artificial neural networks to reveal the human confidence computation
+10.1371/journal.pcbi.1013802,A computational framework to study EGFR signaling distribution in egg chambers during dynamic interactions between soma and germline
+10.1371/journal.pcbi.1013786,Interplay of structured and random interactions in complex ecosystems dynamics
+10.1371/journal.pcbi.1013410,"V-Cornea: A computational model of corneal epithelium homeostasis, injury, and recovery"
+10.1371/journal.pcbi.1013778,Modeling based insights into mechanical dysfunction in esophageal motility disorders
+10.1371/journal.pcbi.1012766,Modeling tissue-scale ciliary transport and mixing in three-dimensional Newtonian flow
+10.1371/journal.pcbi.1013845,A game theoretic treatment of contagion in trade networks
+10.1371/journal.pcbi.1013801,Abnormal vasculature reduces overlap between drugs and oxygen in a tumour computational model: Implications for therapeutic efficacy
+10.1371/journal.pcbi.1013837,ASPEN: Robust detection of allelic dynamics in single cell RNA-seq
+10.1371/journal.pcbi.1013838,Ion dynamics underlying the seizure delay effect of low-frequency electrical stimulation
+10.1371/journal.pcbi.1013821,Neuronal identity is not static: An input-driven perspective
+10.1371/journal.pcbi.1013819,Democratising high performance computing for bioinformatics through serverless cloud computing: A case study on CRISPR-Cas9 guide RNA design with Crackling Cloud
+10.1371/journal.pcbi.1013817,Stable individualized brain computing model informed by spatiotemporal co-activity patterns
+10.1371/journal.pcbi.1013832,DAGFormer: A graph-based domain adaptation approach for single-cell cancer drug response prediction
+10.1371/journal.pcbi.1013826,Long-term perceptual priors drive confidence bias that favors prior-congruent evidence
+10.1371/journal.pcbi.1013823,Correction: Data-driven modeling predicts gene regulatory network dynamics during the differentiation of multipotential hematopoietic progenitors
+10.1371/journal.pcbi.1013776,Zero-shot deep learning for the annotation of unknown eDNA sequences using co-occurrences and phylogenetic embeddings
+10.1371/journal.pcbi.1013829,Decoding the role of DNA sequence on protein-DNA co-condensation
+10.1371/journal.pcbi.1013359,Quantifying vector diversion effects in zoonotic systems: A modelling framework for arbovirus transmission between reservoir and dead-end hosts
+10.1371/journal.pcbi.1013808,Quantifying viral pandemic potential from experimental transmission studies
+10.1371/journal.pcbi.1013796,A methodology to reduce the localization error in multi-loci microscopy provides new insights into enhancer biology
+10.1371/journal.pcbi.1013790,Probabilistic modeling of cell cycle dynamics in response to cell cycle targeting chemotherapy drugs to guide treatment strategies
+10.1371/journal.pcbi.1012873,The dynamics of explore-exploit decisions suggest a threshold mechanism for reduced random exploration in older adults
+10.1371/journal.pcbi.1013791,Eleven quick tips for organizing a data cleaning challenge
+10.1371/journal.pcbi.1013787,"Blaming luck, claiming skill: Self-attribution bias in error assignment"
+10.1371/journal.pcbi.1013782,Predicting neural responses to intra- and extra-cranial electric brain stimulation by means of the reciprocity theorem
+10.1371/journal.pcbi.1012352,Assessing the relative contributions of mosaic and regulatory developmental modes from single-cell trajectories
+10.1371/journal.pcbi.1013799,Semi-supervised Bayesian integration of multiple spatial proteomics datasets
+10.1371/journal.pcbi.1013810,MAGNET: Multi-view graph autoencoder with cell-gene attention for cell interaction network reconstruction from spatial transcriptomics
+10.1371/journal.pcbi.1013805,"Sketch, capture and layout phylogenies"
+10.1371/journal.pcbi.1013733,Axon collateralization and focal myelin dystrophy alter action potential propagation in multicompartment pyramidal neuron models
+10.1371/journal.pcbi.1013095,LCMSpector: A simple open-source viewer for targeted hyphenated mass spectrometry analysis
+10.1371/journal.pcbi.1013822,Lysergic acid diethylamide-derived excitatory/inhibitory ratio change enhances global synchrony in functional brain dynamics
+10.1371/journal.pcbi.1013764,PyFibers: An open-source NEURON-Python package to simulate responses of model nerve fibers to electrical stimulation
+10.1371/journal.pcbi.1013674,Computational origins of shape perception
+10.1371/journal.pcbi.1013217,How cells tame noise while maintaining ultrasensitive transcriptional responses
+10.1371/journal.pcbi.1013759,Randomized Spatial PCA (RASP): A computationally efficient method for dimensionality reduction of high-resolution spatial transcriptomics data
+10.1371/journal.pcbi.1013798,"Computational modeling of rhythmic expectations: Perspectives, pitfalls, and prospects"
+10.1371/journal.pcbi.1013800,A deep learning approach for time-consistent cell cycle phase prediction from microscopy data
+10.1371/journal.pcbi.1013803,Computational characterization of the xanthan gum glycosyltransferase GumK
+10.1371/journal.pcbi.1012968,Comparing a computational model of visual problem solving with human vision on a difficult vision task
+10.1371/journal.pcbi.1013748,Observing hidden neuronal states in experiments
+10.1371/journal.pcbi.1012895,Modeling the interplay of sex hormones in cardiac hypertrophic signaling
+10.1371/journal.pcbi.1013742,Learning structured population models from data with WSINDy
+10.1371/journal.pcbi.1013694,Neural encoding of biomechanically (im)possible human movements in occipitotemporal cortex
+10.1371/image.pcbi.v21.i11,PLoS Computational Biology Issue Image | Vol. 21(11) December 2025
+10.1371/journal.pcbi.1013779,Ten simple rules for effective research data management
+10.1371/journal.pcbi.1013785,"Memory, innovation and vertical learning"
+10.1371/journal.pcbi.1013797,Dynamical stability and mechanical impedance are optimized when manipulating uncertain dynamically complex objects
+10.1371/journal.pcbi.1013745,Graph-enhanced deep learning for diabetic retinopathy diagnosis: A quality-aware and uncertainty-driven approach
+10.1371/journal.pcbi.1013777,Transient boosting of action potential backpropagation for few-shot temporal pattern learning
+10.1371/journal.pcbi.1013775,Random time-shift approximation enables hierarchical Bayesian inference of mechanistic within-host viral dynamics models on large datasets
+10.1371/journal.pcbi.1013722,A meta-contrastive learning approach for clinical drug-drug interaction extraction from biomedical literature
+10.1371/journal.pcbi.1013784,"Benchmarking interpretability of deep learning for predictive genomics: Recall, precision, and variability of feature attribution"
+10.1371/journal.pcbi.1013265,Systematic computational assessment of atrial function impairment due to fibrotic remodeling in electromechanical properties
+10.1371/journal.pcbi.1013746,An agent-based model of metabolic signaling oscillations in Bacillus subtilis biofilms
+10.1371/journal.pcbi.1013780,Decoupled contrastive multi-view clustering with adaptive false negative elimination for cancer subtyping
+10.1371/journal.pcbi.1013239,Verification and reproducible curation of the BioModels repository
+10.1371/journal.pcbi.1013768,ARTreeFormer: A faster attention-based autoregressive model for phylogenetic inference
+10.1371/journal.pcbi.1013763,"Coexistence rules for small, antagonistically interacting microbial communities"
+10.1371/journal.pcbi.1013458,Natural variants of von Willebrand factor R1205 causing von Willebrand disease with accelerated von Willebrand factor clearance: In silico docking models and energetics of the interaction with both LRP1 and GpIb A1 domain
+10.1371/journal.pcbi.1013781,Receptor dimerization enables ligand discrimination through tunable response heterogeneity
+10.1371/journal.pcbi.1013749,Unsupervised detection and fitness estimation of emerging SARS-CoV-2 variants: Application to wastewater samples (ANRS0160)
+10.1371/journal.pcbi.1012326,Epigenetics is all you need: A transformer to decode chromatin structural compartments from the epigenome
+10.1371/journal.pcbi.1013732,Do we advise as one likes? The alignment bias in social advice giving
+10.1371/journal.pcbi.1013719,Accuracy of the Lotka-Volterra model fails in strongly coupled microbial consumer-resource systems
+10.1371/journal.pcbi.1013384,Mechanistically informed machine learning links non-canonical TCA cycle activity to Warburg metabolism and hallmarks of malignancy
+10.1371/journal.pcbi.1013773,Using evolutionary context to classify difficult protein folds
+10.1371/journal.pcbi.1013675,Neural mechanisms of flexible perceptual inference
+10.1371/journal.pcbi.1013765,A unified model library maps how neuromodulation reshapes the excitability landscape of neurons across the brain
+10.1371/journal.pcbi.1013692,Long-read sequencing transcriptome quantification with lr-kallisto
+10.1371/journal.pcbi.1013766,Ohno-miRNAs: miRNA pairs derived from whole-genome duplication
+10.1371/journal.pcbi.1013744,"D3Impute: Dropout-aware discrimination, distribution-aware modeling, and density-guide imputation for scRNA-seq data"
+10.1371/journal.pcbi.1013725,Integrative multi-omics framework for causal gene discovery in Long COVID
+10.1371/journal.pcbi.1013204,Identification of dynamic models of microbial communities: A workflow addressing identifiability and modeling pitfalls
+10.1371/journal.pcbi.1013131,Attenuation of HIV severity by slightly deleterious mutations can explain the long-term trajectory of virulence evolution
+10.1371/journal.pcbi.1013758,Nucleotide context models outperform protein language models for predicting antibody affinity maturation
+10.1371/journal.pcbi.1013673,Comment on “Using genomic data and machine learning to predict antibiotic resistance: A tutorial paper”
+10.1371/journal.pcbi.1013783,DDGWizard: Integration of feature calculation resources for analysis and prediction of changes in protein thermostability upon point mutations
+10.1371/journal.pcbi.1013277,Automated registration and clustering for enhanced localization atomic force microscopy of flexible membrane proteins
+10.1371/journal.pcbi.1012698,Multiscale modelling shows how cell-ECM interactions impact ECM fibre alignment and cell detachment
+10.1371/journal.pcbi.1013736,Lipid-driven alignment and binding of p7 dimers in early oligomer assembly
+10.1371/journal.pcbi.1013708,Linking multiple serological assays to infer dengue virus infections from paired samples using mixture models
+10.1371/journal.pcbi.1012295,Multi-scale modelling of location- and frequency-dependent synaptic plasticity induced by repetitive magnetic stimulation in the dendrites of pyramidal neurons
+10.1371/journal.pcbi.1013676,T-shaped alignments integrating HIV-1 near full-length genome and partial pol sequences can improve phylogenetic inference of transmission clusters
+10.1371/journal.pcbi.1013743,TransMarker: Unveiling dynamic network biomarkers in cancer progression through cross-state graph alignment and optimal transport
+10.1371/journal.pcbi.1013695,Federated learning for COVID-19 mortality prediction in a multicentric sample of 21 hospitals
+10.1371/journal.pcbi.1013143,Whom do we prefer to learn from in observational reinforcement learning?
+10.1371/journal.pcbi.1013734,Prediction of graft loss in living donor liver transplantation during the early postoperative period
+10.1371/journal.pcbi.1013731,"Ten simple rules for maximizing summer research experiences for students, mentors, and research groups"
+10.1371/journal.pcbi.1013747,Automated and modular protein binder design with BinderFlow
+10.1371/journal.pcbi.1013644,"Emergence of sparse coding, balance and decorrelation from a biologically-grounded spiking neural network model of learning in the primary visual cortex"
+10.1371/journal.pcbi.1013714,Universal scale-free representations in human visual cortex
+10.1371/journal.pcbi.1013678,Protein drift-diffusion in membranes with non-equilibrium fluctuations arising from gradients in concentration or temperature
+10.1371/journal.pcbi.1013730,Nash equilibrium of attack and defense behaviors between predators and prey
+10.1371/journal.pcbi.1013724,Parameterization of cell-free systems with time-series data using KETCHUP
+10.1371/journal.pcbi.1013474,Multi-physics modeling for ion homeostasis in multi-compartment plant cells using an energy function
+10.1371/journal.pcbi.1012957,Unlocking plant health survey data: An approach to quantify the sensitivity and specificity of visual inspections
+10.1371/journal.pcbi.1013705,Candidate correlates of protection in the HVTN505 HIV-1 vaccine efficacy trial identified by positive-unlabeled learning
+10.1371/journal.pcbi.1013712,How cortico-basal ganglia-thalamic subnetworks can shift decision policies to increase reward rate
+10.1371/journal.pcbi.1013693,PseudoknotVisualizer: Visualization of pseudoknots on three-dimensional RNA structures
+10.1371/journal.pcbi.1013704,CrossLabFit: A novel framework for integrating qualitative and quantitative data across multiple labs for model calibration
+10.1371/journal.pcbi.1013634,Molecular insights on the mechanism of α 1 -antitrypsin condensate formation and maturation
+10.1371/journal.pcbi.1013616,Biphasic effects on human atrial arrhythmogenicity of L-type calcium channel mutations associated with a Brugada/Short QT overlap syndrome - insights from a multiscale simulation study
+10.1371/journal.pcbi.1013723,"Clinical progression parameters associated with SARS-CoV-2, influenza, and respiratory syncytial virus infections in a large US integrated healthcare population"
+10.1371/journal.pcbi.1013690,Ten simple rules for early-career researchers supervising short-term student projects
+10.1371/journal.pcbi.1013706,An evolutionary approach to predict the orientation of CRISPR arrays
+10.1371/journal.pcbi.1012713,Benchmarking the predictive capability of human gait simulations
+10.1371/journal.pcbi.1013711,In vivo neural activity of electrosensory pyramidal cells: Biophysical characterization and phenomenological modeling
+10.1371/journal.pcbi.1013735,Epydemix: An open-source Python package for epidemic modeling with integrated approximate Bayesian calibration
+10.1371/journal.pcbi.1013710,tvsfglasso: Time-varying scale-free graphical lasso for network estimation from time-series data
+10.1371/journal.pcbi.1013720,Different antigenic distance metrics generate similar predictions of influenza vaccine response breadth despite moderate correlation
+10.1371/journal.pcbi.1013709,Real-time forecasting of data revisions in epidemic surveillance streams
+10.1371/journal.pcbi.1013703,Multi-view fusion based on graph convolutional network with attention mechanism for predicting miRNA related to drugs
+10.1371/journal.pcbi.1013713,Spatial close-kin mark-recapture methods to estimate dispersal parameters and barrier strength for mosquitoes
+10.1371/journal.pcbi.1013679,"OneProt: Towards multi-modal protein foundation models via latent space alignment of sequence, structure, binding sites and text encoders"
+10.1371/journal.pcbi.1013697,Library size-stabilized metacells construction enhances co-expression network analysis in single-cell data
+10.1371/journal.pcbi.1013672,Stimulus-to-stimulus learning in RNNs with cortical inductive biases
+10.1371/journal.pcbi.1013642,Incorporating human mobility to enhance epidemic response and estimate real-time reproduction numbers
+10.1371/journal.pcbi.1013649,The topology of synergy: Linking topological and information-theoretic approaches to higher-order interactions in complex systems
+10.1371/journal.pcbi.1013721,ScRDAVis: An R shiny application for single-cell transcriptome data analysis and visualization
+10.1371/journal.pcbi.1013774,BAGEL : Protein engineering via exploration of an energy landscape
+10.1371/journal.pcbi.1013667,SpaMWGDA: Identifying spatial domains of spatial transcriptomes using multi-view weighted fusion graph convolutional network and data augmentation
+10.1371/journal.pcbi.1013696,Trial-by-trial learning of successor representations in human behavior
+10.1371/journal.pcbi.1012929,Zero-shot segmentation using embeddings from a protein language model identifies functional regions in the human proteome
+10.1371/journal.pcbi.1013650,Improving the accuracy of automated labeling of specimen images datasets via a confidence-based process
+10.1371/journal.pcbi.1013707,Automated C. elegans behavior analysis via deep learning-based detection and tracking
+10.1371/image.pcbi.v21.i10,PLoS Computational Biology Issue Image | Vol. 21(10) November 2025
+10.1371/journal.pcbi.1013658,Building a continuous benchmarking ecosystem in bioinformatics
+10.1371/journal.pcbi.1013668,IPScan: Detecting novel intronic PolyAdenylation events with RNA-seq data
+10.1371/journal.pcbi.1013659,Individual trajectories for recovery of neocortical activity in disorders of consciousness
+10.1371/journal.pcbi.1013681,A Bayesian neural ordinary differential equations framework to study the effects of chemical mixtures on survival
+10.1371/journal.pcbi.1012764,Differential effect of supercoiling on bacterial transcription in topological domains
+10.1371/journal.pcbi.1013654,PathoRM: Computational inference of pathogenic RNA methylation sites by incorporating multi-view features
+10.1371/journal.pcbi.1013662,Optimization of experimental designs for biological rhythm discovery
+10.1371/journal.pcbi.1013682,Splicing-aware scRNA-Seq resolution reveals execution-ready programs in effector Tregs
+10.1371/journal.pcbi.1013691,Quantifying microbial interactions based on compositional data using an iterative approach for solving generalized Lotka-Volterra equations
+10.1371/journal.pcbi.1013677,TXSelect: A multi-task learning model to identify secretory effectors
+10.1371/journal.pcbi.1013666,Inferring pathway activity from single-cell and spatial transcriptomics data with PaaSc
+10.1371/journal.pcbi.1013558,HAPP: High-accuracy pipeline for processing deep metabarcoding data
+10.1371/journal.pcbi.1013193,Data-driven identification of biological systems using multi-scale analysis
+10.1371/journal.pcbi.1012727,Role of connectivity anisotropies in the dynamics of cultured neuronal networks
+10.1371/journal.pcbi.1013680,A linear pathway for inositol pyrophosphate metabolism revealed by 18 O labeling and model reduction
+10.1371/journal.pcbi.1013665,APDCA: An accurate and effective method for predicting associations between RBPs and AS-events during epithelial-mesenchymal transition
+10.1371/journal.pcbi.1013661,Cortical state contributions to neuronal response variability in the early visual cortex: A system identification approach
+10.1371/journal.pcbi.1013629,Null models for comparing information decomposition across complex systems
+10.1371/journal.pcbi.1013657,Ten simple rules for making biomedical data resources accessible
+10.1371/journal.pcbi.1013656,Regional heterogeneity in left atrial stiffness impacts passive deformation in a cohort of patient-specific models
+10.1371/journal.pcbi.1013647,Calibration of transmission-dynamic infectious disease models: A scoping review and reporting framework
+10.1371/journal.pcbi.1013651,Machine learning augmented diagnostic testing to identify sources of variability in test performance
+10.1371/journal.pcbi.1013655,Correction: The specious art of single-cell genomics
+10.1371/journal.pcbi.1013636,Correction: Perturbing low dimensional activity manifolds in spiking neuronal networks
+10.1371/journal.pcbi.1013639,Correction: Facilitating the propagation of spiking activity in feedforward networks by including feedback
+10.1371/journal.pcbi.1013638,Correction: Uncoupling the roles of firing rates and spike bursts in shaping the STN-GPe beta band oscillations
+10.1371/journal.pcbi.1013648,Resource diversity and supply drive colonization resistance
+10.1371/journal.pcbi.1013664,Branch-specific gene discovery in cell differentiation using multi-omics graph attention
+10.1371/journal.pcbi.1013663,miRScore: A rapid and precise microRNA validation tool
+10.1371/journal.pcbi.1013660,RNACOREX - RNA coregulatory network explorer and classifier
+10.1371/journal.pcbi.1013641,Time-dependent computational model of post-traumatic osteoarthritis to estimate how mechanoinflammatory mechanisms impact cartilage aggrecan content
+10.1371/journal.pcbi.1013643,"WormSNAP : A software for fast, accurate, and unbiased detection of fluorescent puncta in C. elegans"
+10.1371/journal.pcbi.1013637,Correction: From space to time: Spatial inhomogeneities lead to the emergence of spatiotemporal sequences in spiking neuronal networks
+10.1371/journal.pcbi.1013645,Subthreshold moment analysis of neuronal populations driven by synchronous synaptic inputs
+10.1371/journal.pcbi.1013627,Correction: Synthetic method of analogues for emerging infectious disease forecasting
+10.1371/journal.pcbi.1013094,Ten rules for a structural bioinformatic analysis
+10.1371/journal.pcbi.1013615,Ligand discrimination in immune cells: Signal processing insights into immune dysfunction in ER+ breast cancer
+10.1371/journal.pcbi.1013624,Nine quick tips for trustworthy machine learning in the biomedical sciences
+10.1371/journal.pcbi.1013557,Response to comment on ”Identifying patterns differing between high-dimensional datasets with generalized contrastive PCA”
+10.1371/journal.pcbi.1013646,The relationship between anxious traits and learning about changes in stochasticity and volatility
+10.1371/journal.pcbi.1013623,Correction: The role of oscillations in grid cells’ toroidal topology
+10.1371/journal.pcbi.1013555,Generalized contrastive PCA is equivalent to generalized eigendecomposition
+10.1371/journal.pcbi.1013621,Block sparse Bayes-based fuzzy system for RNA N6-methyladenosine sites prediction
+10.1371/journal.pcbi.1013608,Seeing what you hear: Compression of rat visual perceptual space by task-irrelevant sounds
+10.1371/journal.pcbi.1013626,Surrogate modeling of Cellular-Potts agent-based models as a segmentation task using the U-Net neural network architecture
+10.1371/journal.pcbi.1013588,Ten simple rules for optimal and careful use of generative AI in science
+10.1371/journal.pcbi.1013528,Adaptive proximity to criticality underlies amplification of ultra-slow fluctuations during free recall
+10.1371/journal.pcbi.1012852,Noradrenaline and acetylcholine shape functional connectivity organization of NREM substages: An empirical and simulation study
+10.1371/journal.pcbi.1013635,Optimization-based framework with flux balance analysis (FBA) and metabolic pathway analysis (MPA) for identifying metabolic objective functions
+10.1371/journal.pcbi.1013607,Inference of weak-form partial differential equations describing migration and proliferation mechanisms in wound healing experiments on cancer cells
+10.1371/journal.pcbi.1013633,"Detecting polynucleotide motifs: Pentads, hexads, and beyond"
+10.1371/journal.pcbi.1013589,A semi-automated algorithm for image analysis of respiratory organoids
+10.1371/journal.pcbi.1013613,Correction: An efficient and flexible framework for inferring global sensitivity of agent-based model parameters
+10.1371/journal.pcbi.1013599,Unpacking the V1 map: Differential covariation of preferred spatial frequency and cortical magnification across spatial dimensions
+10.1371/journal.pcbi.1013622,Multi-feature fusion network with marginal focal dice loss for multi-label therapeutic peptide prediction
+10.1371/journal.pcbi.1013587,Manifold transform by recurrent cortical circuit enhances robust encoding of familiar stimuli
+10.1371/journal.pcbi.1013603,Improved gene regulatory network inference from single cell data with dropout augmentation
+10.1371/journal.pcbi.1013597,"Synchrony, oscillations, and phase relationships in collective neuronal activity: A highly comparative overview of methods"
+10.1371/journal.pcbi.1013596,Elastic analysis bridges structure and dynamics of an AAA+ molecular motor
+10.1371/journal.pcbi.1013598,Multi-cellular network model predicts alterations in glomerular endothelial structure in diabetic kidney disease
+10.1371/journal.pcbi.1013124,BMDD: A probabilistic framework for accurate imputation of zero-inflated microbiome sequencing data
+10.1371/journal.pcbi.1013628,Predicting residue ionization of OmpF channel using Constant pH Molecular Dynamics as benchmark
+10.1371/journal.pcbi.1013612,Simultaneously determining regional heterogeneity and connection directionality from neural activity and symmetric connection
+10.1371/journal.pcbi.1013500,Inferring effective networks of spiking neurons using a continuous-time estimator of transfer entropy
+10.1371/journal.pcbi.1013601,Correction: Low-dimensional controllability of brain networks
+10.1371/journal.pcbi.1013609,Homeostatic bidirectional plasticity in upbound and downbound micromodules in a model of the olivocerebellar loop
+10.1371/journal.pcbi.1013604,The structural effects of indel polymorphisms outside the binding site on RNA-protein interactions are shaped by selection
+10.1371/journal.pcbi.1013568,Analytical and computational solution for the estimation of SNP-heritability in biobank-scale and distributed datasets
+10.1371/journal.pcbi.1013600,GeneDrive.jl: A decision tool to optimize biological vector control strategies under climate change
+10.1371/journal.pcbi.1013573,Statistical regularities in natural scenes that support figure-ground segregation by neural populations
+10.1371/journal.pcbi.1013369,Spatial domain identification method based on multi-view graph convolutional network and contrastive learning
+10.1371/journal.pcbi.1013590,Memorization bias impacts modeling of alternative conformational states of solute carrier membrane proteins with methods from deep learning
+10.1371/journal.pcbi.1013516,"Scalable, trustworthy generative model for virtual multi-staining from H&E whole slide images"
+10.1371/journal.pcbi.1013595,Drug-disease networks and drug repurposing
+10.1371/journal.pcbi.1013583,Multiscale networks in Alzheimer’s disease identify brain hypometabolism as central across biological scales
+10.1371/journal.pcbi.1013602,TastepepAI: An artificial intelligence platform for taste peptide de novo design
+10.1371/journal.pcbi.1013062,PPI-ID: Streamlining protein-protein interaction prediction through domain and SLiM mapping
+10.1371/journal.pcbi.1013275,A method for analysing tissue motion and deformation during mammalian organogenesis
+10.1371/journal.pcbi.1013460,Topology across scales on heterogeneous cell data
+10.1371/journal.pcbi.1013567,CASynergy: A causal attention model for interpretable prediction of cancer drug synergy
+10.1371/journal.pcbi.1013577,Transmission thresholds for the spread of infections in healthcare facilities
+10.1371/journal.pcbi.1013554,Impact of the COVID-19 pandemic on computational biology early career researchers: A global retrospective study
+10.1371/journal.pcbi.1013614,HMFGraph: Novel Bayesian approach for recovering biological networks
+10.1371/journal.pcbi.1013055,ArcDFI: Attention regularization guided by CYP450 interactions for predicting drug-food interactions
+10.1371/journal.pcbi.1013556,Deep learning detection of dynamic exocytosis events in fluorescence TIRF microscopy
+10.1371/journal.pcbi.1013584,Exact conditions for evolutionary stability in indirect reciprocity under noise
+10.1371/journal.pcbi.1013570,Model-based inference of cell cycle dynamics captures alterations of the DNA replication programme
+10.1371/journal.pcbi.1013551,Ten quick tips for developing a reproducible Shiny application
+10.1371/journal.pcbi.1013576,Enhancing antibody-antigen interaction prediction with atomic flexibility
+10.1371/journal.pcbi.1013586,Social imitation dynamics of vaccination driven by vaccine effectiveness and beliefs
+10.1371/journal.pcbi.1012703,Multivariate resilience indicators to anticipate vector-borne disease outbreaks: A West Nile virus case-study
+10.1371/journal.pcbi.1013585,Social inequalities in vaccine coverage and their effects on epidemic spreading
+10.1371/journal.pcbi.1012986,Understanding the mechanism of facilitation in hoverfly TSDNs
+10.1371/journal.pcbi.1013575,Differential equation modeling of cell population dynamics in skeletal muscle regeneration from single-cell transcriptomic data
+10.1371/journal.pcbi.1013606,Similarity-based transfer learning with deep learning networks for accurate CRISPR-Cas9 off-target prediction
+10.1371/journal.pcbi.1013564,A compact model of Escherichia coli core and biosynthetic metabolism
+10.1371/journal.pcbi.1013543,Learning spatial hearing via innate mechanisms
+10.1371/journal.pcbi.1013559,Diverse and flexible behavioral strategies arise in recurrent neural networks trained on multisensory decision making
+10.1371/journal.pcbi.1013571,Environmental motion presented ahead of self-motion modulates heading direction estimation
+10.1371/journal.pcbi.1013036,Spatial distribution of cytoskeleton-mediated feedback controls cell polarization: A computational study
+10.1371/journal.pcbi.1013569,"Mouse and human striatal projection neurons compared - somatodendritic arbor, spines and in silico analyses"
+10.1371/journal.pcbi.1013550,Importance of localized dilatation and distensibility in identifying determinants of thoracic aortic aneurysm with neural operators
+10.1371/journal.pcbi.1013552,From ideal to practical: Heterogeneity of student-generated variant lists highlights hidden reproducibility gaps
+10.1371/journal.pcbi.1013553,Assessing parameter identifiability of a hemodynamics PDE model using spectral surrogates and dimension reduction
+10.1371/journal.pcbi.1013483,AI-driven discovery of novel extracellular matrix biomarkers in pelvic organ prolapse
+10.1371/journal.pcbi.1013566,OCIAD2 as a novel prognostic and therapeutic biomarker for pancreatic cancer: A study based on transcriptomic signature and bioinformatics analysis
+10.1371/journal.pcbi.1012677,A digital DNA system favours the superiority of unidirectional inheritance over ‘Lamarckian’ inheritance
+10.1371/journal.pcbi.1012890,Dynamic modelling of cell cycle arrest through integrated single-cell and mathematical modelling approaches
+10.1371/journal.pcbi.1013574,Stabilized marker gene identification and functional annotation from single-cell transcriptomic data
+10.1371/journal.pcbi.1013572,The mechanism of dynamic steady states in lamellipodia
+10.1371/image.pcbi.v21.i09,PLoS Computational Biology Issue Image | Vol. 21(9) October 2025
+10.1371/journal.pcbi.1013038,InteracTor: Feature engineering and explainable AI for profiling protein structure-interaction-function relationships
+10.1371/journal.pcbi.1013517,Superspreading and the evolution of virulence

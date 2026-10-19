@@ -1,0 +1,43 @@
+===== 全量 / E1 多 seed 汇总（mean±std over 6 runs） =====
+full B6role  NDCG@10  0.0531±0.0000
+full B6role  MRR      0.0908±0.0001
+full B6full  NDCG@10  0.0566±0.0000
+full B6full  MRR      0.0961±0.0000
+e1   B6role  NDCG@10  0.0628±0.0000
+e1   B6role  MRR      0.0939±0.0000
+e1   B6full  NDCG@10  0.0649±0.0000
+e1   B6full  MRR      0.0966±0.0000
+
+集合    比较              指标             均值差       p  p_Holm
+full  B6full vs B6-rb NDCG@10     0.0057  0.0001  0.0032
+full  B6full vs B6-rb Recall@10   0.0078  0.0001  0.0032
+full  B6full vs B6-rb MAP         0.0058  0.0001  0.0032
+full  B6full vs B6-rb MRR         0.0079  0.0001  0.0032
+full  B6full vs B2    NDCG@10     0.0030  0.0001  0.0032
+full  B6full vs B2    Recall@10   0.0046  0.0001  0.0032
+full  B6full vs B2    MAP         0.0033  0.0001  0.0032
+full  B6full vs B2    MRR         0.0041  0.0001  0.0032
+full  B6full vs B1    NDCG@10     0.0082  0.0001  0.0032
+full  B6full vs B1    Recall@10   0.0112  0.0001  0.0032
+full  B6full vs B1    MAP         0.0070  0.0001  0.0032
+full  B6full vs B1    MRR         0.0115  0.0001  0.0032
+full  B6full vs B6roleNDCG@10     0.0035  0.0001  0.0032
+full  B6full vs B6roleRecall@10   0.0045  0.0001  0.0032
+full  B6full vs B6roleMAP         0.0031  0.0001  0.0032
+full  B6full vs B6roleMRR         0.0053  0.0001  0.0032
+e1    B6full vs B6-rb NDCG@10     0.0042  0.0001  0.0032
+e1    B6full vs B6-rb Recall@10   0.0060  0.0001  0.0032
+e1    B6full vs B6-rb MAP         0.0033  0.0001  0.0032
+e1    B6full vs B6-rb MRR         0.0049  0.0001  0.0032
+e1    B6full vs B2    NDCG@10     0.0028  0.0001  0.0032
+e1    B6full vs B2    Recall@10   0.0043  0.0001  0.0032
+e1    B6full vs B2    MAP         0.0021  0.0001  0.0032
+e1    B6full vs B2    MRR         0.0032  0.0001  0.0032
+e1    B6full vs B1    NDCG@10     0.0060  0.0001  0.0032
+e1    B6full vs B1    Recall@10   0.0097  0.0001  0.0032
+e1    B6full vs B1    MAP         0.0043  0.0001  0.0032
+e1    B6full vs B1    MRR         0.0060  0.0001  0.0032
+e1    B6full vs B6roleNDCG@10     0.0021  0.0001  0.0032
+e1    B6full vs B6roleRecall@10   0.0028  0.0001  0.0032
+e1    B6full vs B6roleMAP         0.0017  0.0001  0.0032
+e1    B6full vs B6roleMRR         0.0027  0.0001  0.0032
