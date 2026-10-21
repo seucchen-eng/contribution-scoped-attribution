@@ -1,0 +1,51 @@
+{
+ "role_set": [
+  "data-curation",
+  "formal-analysis",
+  "investigation",
+  "methodology",
+  "software",
+  "validation"
+ ],
+ "tuple_level": {
+  "n": 3618,
+  "n_pos": 404,
+  "micro_AUPRC": 0.2342276774539947
+ },
+ "per_role": {
+  "data-curation": {
+   "n_pos": 0,
+   "AUPRC": null
+  },
+  "formal-analysis": {
+   "n_pos": 80,
+   "AUPRC": 0.22999632155446953
+  },
+  "investigation": {
+   "n_pos": 0,
+   "AUPRC": null
+  },
+  "methodology": {
+   "n_pos": 281,
+   "AUPRC": 0.8740220615092275
+  },
+  "software": {
+   "n_pos": 43,
+   "AUPRC": 0.18329988169105105
+  },
+  "validation": {
+   "n_pos": 0,
+   "AUPRC": null
+  }
+ },
+ "positive_cell_role_accuracy": {
+  "n_pos_cells": 402,
+  "argmax_hit": 20,
+  "top2_hit": 257
+ },
+ "aggregated_check": {
+  "n": 603,
+  "n_pos": 402,
+  "AUPRC": 0.999558612656644
+ }
+}

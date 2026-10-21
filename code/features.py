@@ -5,11 +5,16 @@ M4 共享特征层（B4/B5/B6 共用，对应公平性清单第 2 条：同等�
 对照结论：任务 B 持平、任务 A 硬证据层受损，正式口径保留 TF-IDF，见初稿 5.6 节）
 """
 import json
+import os
 from pathlib import Path
 
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
+
+# 评审响应（评审3第6条）：TFIDF_TRAIN_ONLY=1 时仅用训练注入论文拟合 TF-IDF，
+# 排除 10 篇留出测试论文的文本统计（传导式拟合对照实验）。
+TFIDF_TRAIN_ONLY = os.environ.get("TFIDF_TRAIN_ONLY", "0") == "1"
 
 BASE = Path(__file__).resolve().parent.parent / "data" / "processed"
 
@@ -60,14 +65,21 @@ def gold_cells():
 
 
 def tfidf():
-    """在全部实体上下文 + 论文摘要上拟合 TF-IDF（512 维）。"""
+    """在实体上下文 + 论文摘要上拟合 TF-IDF（512 维）。
+    默认拟合全部 49 篇标注论文（无监督、不用标签）；TFIDF_TRAIN_ONLY=1 时
+    仅拟合 39 篇训练注入论文（排除留出测试论文的文本统计）。"""
     def _l():
-        corpus = [e["context"] for t in tasks().values() for e in t["entities"]]
-        corpus += [t["abstract"] for t in tasks().values()]
+        if TFIDF_TRAIN_ONLY:
+            keep = set(split()["train_inject"])
+            src = {k: v for k, v in tasks().items() if k in keep}
+        else:
+            src = tasks()
+        corpus = [e["context"] for t in src.values() for e in t["entities"]]
+        corpus += [t["abstract"] for t in src.values()]
         v = TfidfVectorizer(max_features=512, ngram_range=(1, 2), sublinear_tf=True)
         v.fit(corpus)
         return v
-    return _load("tfidf", _l)
+    return _load("tfidf_trainonly" if TFIDF_TRAIN_ONLY else "tfidf", _l)
 
 
 def author_features(task):

@@ -125,8 +125,9 @@ def train_b4(epochs, lr, seed):
                 best_val, best_state = vl / vn, {k: v.clone() for k, v in model.state_dict().items()}
     if best_state:
         model.load_state_dict(best_state)
+    ckpt = "ckpt_b4.pt" if seed == 42 else f"ckpt_b4_s{seed}.pt"
     torch.save(model.state_dict(),
-               Path(__file__).resolve().parent.parent / "data" / "processed" / "ckpt_b4.pt")
+               Path(__file__).resolve().parent.parent / "data" / "processed" / ckpt)
     return model
 
 
@@ -150,8 +151,9 @@ def train_b5(epochs, lr, seed):
             opt.zero_grad()
             loss.backward()
             opt.step()
+    ckpt = "ckpt_b5.pt" if seed == 42 else f"ckpt_b5_s{seed}.pt"
     torch.save(model.state_dict(),
-               Path(__file__).resolve().parent.parent / "data" / "processed" / "ckpt_b5.pt")
+               Path(__file__).resolve().parent.parent / "data" / "processed" / ckpt)
     return model
 
 
