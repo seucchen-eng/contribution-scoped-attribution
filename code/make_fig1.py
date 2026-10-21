@@ -9,8 +9,8 @@ from matplotlib.patches import FancyBboxPatch, FancyArrowPatch
 plt.rcParams["font.family"] = "DejaVu Sans"
 
 fig, ax = plt.subplots(figsize=(8.6, 6.8), dpi=300)
-ax.set_xlim(0, 13.4)
-ax.set_ylim(0, 12.6)
+ax.set_xlim(0, 14.0)
+ax.set_ylim(0, 12.8)
 ax.axis("off")
 
 
