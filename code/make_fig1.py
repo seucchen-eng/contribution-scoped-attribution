@@ -48,7 +48,7 @@ box(0.6, 8.3, 7.3, 3.4,
     "Reported Configuration (Section 4.5)",
     "corpus aggregation -> profile P6(r|a,k)\n"
     "with declared-role-histogram fallback\n"
-    "analytic scoring:  score = w_ak x P6 x c_a  (Eq. 9)\n"
+    "analytic scoring:  score = w_ak x P6 x c_a  (Eq. 7)\n"
     "Task B: proxy-based ranking evaluation\n"
     "(boundary analysis, Sections 5.5, 6.2)",
     "#dbeafe", "#1e40af")
@@ -57,9 +57,9 @@ box(0.6, 8.3, 7.3, 3.4,
 box(8.6, 8.3, 4.8, 3.4,
     "Specified, Not Enabled",
     "attribution-controlled propagation\n"
-    "-> role-resolved repr. h_a,r (Sec. 4.4)\n"
-    "joint training, lambda_3 (Sec. 4.5.4)\n"
-    "additive variant (Sec. S2)",
+    "-> role-resolved repr. h_a,r (Online Res. 1, S7)\n"
+    "joint training, lambda_3 (Online Res. 1, S8)\n"
+    "additive variant (Online Res. 1, S2)",
     "#f3f4f6", "#6b7280", dashed=True, title_fs=9.5, body_fs=7.6)
 
 # arrows
