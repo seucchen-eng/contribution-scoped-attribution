@@ -53,8 +53,8 @@ box(0.6, 8.3, 7.3, 3.4,
     "(boundary analysis, Sections 5.5, 6.2)",
     "#dbeafe", "#1e40af")
 
-# Specified but not enabled (top-right, dashed)
-box(8.6, 8.3, 4.8, 3.4,
+# Specified but not enabled (top-right, dashed; right edge aligned to 12.8)
+box(8.6, 8.3, 4.2, 3.4,
     "Specified, Not Enabled",
     "attribution-controlled propagation\n"
     "-> role-resolved repr. h_a,r (Online Res. 1, S7)\n"
